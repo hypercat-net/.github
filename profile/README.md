@@ -5,6 +5,7 @@ Welcome to the **hypercat-net** organization on GitHub. This profile is a placeh
 ## Main repository
 
 - **[zensical-guides](https://github.com/hypercat-net/zensical-guides)** — guides for Zensical
+- **[thameswater-exporter](https://github.com/hypercat-net/thameswater-exporter)** — export Thames Water meter readings into Mimir
 
 ## Support
 
